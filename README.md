@@ -1,2 +1,2 @@
 # drawio--flowchart-skill
-可以用于drawio的流程图skill
+可以用于借助drawio画流程图的skill
